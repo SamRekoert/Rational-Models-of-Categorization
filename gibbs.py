@@ -414,7 +414,7 @@ def get_zmstims(n):
 def demo():
     #stims = np.loadtxt( os.popen("awk 'NF==13 {print( $7, $8, $10 )}' data/2.dat") )[:64]
     #types='ccc'
-    outfile = "DontKnowWhatThisDoesFile.txt"
+    outfile = "output.txt"
     stims, labels = get_zmstims(100)
     types = 'cc'
     
