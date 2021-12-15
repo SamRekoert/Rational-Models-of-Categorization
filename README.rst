@@ -23,6 +23,8 @@ plotting in some of the demos will require `matplotlib`_.
 .. _scipy: http://www.scipy.org
 .. _matplotlib: http://matplotlib.sourceforge.net
 
+Note:
+It is now possible to run the code in Python 3.9
 
 The original: rational.py
 -------------------------
